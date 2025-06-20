@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trinidad Pinto León</h1>
-<h3 align="center">A passionate software developer from Chile</h3>
+<h3 align="center">A passionate software developer from Chile!</h3>
 
 - 🔭 I’m currently working on [Resting](https://github.com/TrinidadPinto/Final-Project)
 
