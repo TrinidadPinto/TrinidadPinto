@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trinidad Pinto León</h1>
 <h3 align="center">A passionate software developer from Chile</h3>
 
-- 🔭 I’m currently working on [Resting](https://github.com/TrinidadPinto/Final-Project)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Bootstrap**
 
 - 📫 How to reach me **trinipinto.leon@gmail.com**
