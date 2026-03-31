@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **trinipinto.leon@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/fsewtvmr9ttp](https://flowcv.com/resume/fsewtvmr9ttp)
+- 📄 Know about my experiences [My CV](https://flowcv.com/resume/fsewtvmr9ttp)
 
 - ⚡ Fun fact **I have an almost photographic memory and i love movies**
 
